@@ -26,4 +26,4 @@ Existing features :
   - descriptor
   - tentatie correspondences
 - RANSAC 
-- Basic Stitching
+- Basic Stitching 
