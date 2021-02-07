@@ -1,0 +1,11 @@
+Creating PNM images
+Loading PNM images
+Saving PNM images
+Creating PNG images
+Loading PNG images
+Saving PNG images
+From RGBA to Gray image
+From Gray to RGBA image
+Filtering image with given kernel
+Take x derivative and y derivative of the image ( without bordering!! )
+Applying Warp Affine Transform & Bilinear Sampling
