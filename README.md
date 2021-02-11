@@ -24,6 +24,6 @@ Existing features :
 - Image Processing and Feature Detection with SIFT
   - keypoint
   - descriptor
-  - tentatie correspondences
+  - tentative correspondences
 - RANSAC 
 - Basic Stitching
